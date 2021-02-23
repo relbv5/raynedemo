@@ -1,0 +1,10 @@
+{
+  "auth": {
+    "raynedemo850cd21a": {
+      "service": "Cognito",
+      "providerPlugin": "awscloudformation",
+      "dependsOn": [],
+      "customAuth": false
+    }
+  }
+}
